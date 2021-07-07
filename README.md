@@ -1,1 +1,1 @@
-# Siamese-Network
+# music generator using LSTM
